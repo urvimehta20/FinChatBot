@@ -1,4 +1,4 @@
-# FinChatBot 🤖 
+# Fin-ChatBot 🤖 
 Improving your financial well-being with the Financial Chatbot!
 
 This chatbot is designed to assist you with a wide range of financial tasks and provide you with valuable information, all in the convenience of a chat interface. Whether you need help with budgeting, investment advice, or understanding complex financial concepts, this chatbot has got you covered.
